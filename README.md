@@ -1,9 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on full website with front and back end
-- 🌱 I’m currently learning  AI
+- 🔭 I’m currently working on full website with front and back end                                                                 
+- 🌱 I’m currently learning  AI                       
 - 👯 I’m looking to collaborate on  Ecommerce project
 - 👨‍💻 All of my projects are available at https://github.com/Mohamedkr3
 - 📫 How to reach me: mohamed3.khaled25@gmail.com
+- ![coding](https://user-images.githubusercontent.com/101335766/216522334-456d5616-58b6-4198-8fc7-36592cb52800.gif)
+
 
 
 
