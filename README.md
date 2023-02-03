@@ -26,7 +26,7 @@ I am a full-stack software engineer and writer. I love programming, reading, wri
 &nbsp;
 <a href="https://leetcode.com/aswin26barath/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile" target="_blank"><img align="center"  alt="13064312" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.hackerrank.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AswinBarath2" height="30" width="40" /></a>
 &nbsp;
