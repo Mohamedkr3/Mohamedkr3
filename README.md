@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/mohamed-khaled-8a994822b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+## Glad to see you here! &nbsp; 
 
 I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
 
